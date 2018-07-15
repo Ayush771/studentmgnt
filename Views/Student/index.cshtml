@@ -1,0 +1,6 @@
+@model List<Student>
+    <h2>Students</h2>
+    @foreach(var student in Model){
+        <p>Name : @student.Name</p>
+        <p>Address : @student.Address</p>
+    }

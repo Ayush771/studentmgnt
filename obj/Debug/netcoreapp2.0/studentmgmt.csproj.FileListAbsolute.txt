@@ -1,0 +1,13 @@
+C:\demoProject\studentmgmt\bin\Debug\netcoreapp2.0\app.db
+C:\demoProject\studentmgmt\bin\Debug\netcoreapp2.0\studentmgmt.deps.json
+C:\demoProject\studentmgmt\bin\Debug\netcoreapp2.0\studentmgmt.runtimeconfig.json
+C:\demoProject\studentmgmt\bin\Debug\netcoreapp2.0\studentmgmt.runtimeconfig.dev.json
+C:\demoProject\studentmgmt\bin\Debug\netcoreapp2.0\studentmgmt.dll
+C:\demoProject\studentmgmt\bin\Debug\netcoreapp2.0\studentmgmt.pdb
+C:\demoProject\studentmgmt\obj\Debug\netcoreapp2.0\studentmgmt.csprojAssemblyReference.cache
+C:\demoProject\studentmgmt\obj\Debug\netcoreapp2.0\studentmgmt.csproj.CoreCompileInputs.cache
+C:\demoProject\studentmgmt\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\demoProject\studentmgmt\obj\Debug\netcoreapp2.0\studentmgmt.AssemblyInfoInputs.cache
+C:\demoProject\studentmgmt\obj\Debug\netcoreapp2.0\studentmgmt.AssemblyInfo.cs
+C:\demoProject\studentmgmt\obj\Debug\netcoreapp2.0\studentmgmt.dll
+C:\demoProject\studentmgmt\obj\Debug\netcoreapp2.0\studentmgmt.pdb
